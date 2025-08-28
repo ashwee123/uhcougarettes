@@ -22,20 +22,6 @@ people:
    # - title: stack-overflow
    #   url: #
 
-  - name: Saalihah Latiff
-  pic: 10
-  position: Super Senior Advisor
-  social:
-#- name: Jaelyn Rogers
- # pic: 2
- # position: Vice President
- # social:
-   # - title: twitter
-   #   url: #
-   # - title: facebook
-   #   url: #
-   # - title: linkedin
-   #   url: #
    
 #- name: Natalie Severino
  # pic: 1
@@ -96,8 +82,8 @@ people:
  
  
 - name: Zoubida Houda Rezki
-  pic: 9
-  position: Vice Chair
+  pic: zoubida rekzi
+  position: Vice President
   social:
  #   - title: twitter
  #     url: #
@@ -140,8 +126,8 @@ people:
   #     url: #
 
 - name: Anna Vu
-  pic: ana
-  position: Events Chair
+  pic: ana president
+  position: President
   social:
    #   - title: linkedin
    #    url: https://www.linkedin.com/in/sara-umer-353172213
@@ -185,9 +171,9 @@ people:
 
 
 
-- name: thessaly quintana
+- name: Thessaly quintana
   pic: thessaly
-  position: digital marketer
+  position: Marketing Chair
   social:
   #  - title: twitter
   #    url: #
