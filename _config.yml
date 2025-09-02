@@ -82,7 +82,7 @@ people:
  
  
 - name: Zoubida Houda Rezki
-  pic: ![zoubida rezki](/img/team/zoubida rezki.png)
+  pic: zoubida-rezki
   position: Vice President
   social:
  #   - title: twitter
@@ -126,7 +126,7 @@ people:
   #     url: #
 
 - name: Anna Vu
-  pic: ana president
+  pic: ana-president
   position: President
   social:
    #   - title: linkedin
