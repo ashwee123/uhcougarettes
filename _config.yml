@@ -9,6 +9,28 @@ description: "Welcome to UH Cougarettes! Our organization strives to build a sen
 
 # Team names, titles and social links
 people:
+- name: Anna Vu
+  pic: anna-president
+  position: President
+  social:
+   #   - title: linkedin
+   #    url: https://www.linkedin.com/in/sara-umer-353172213
+  #  - title: facebook
+   #   url: #
+   # - title: stack-overflow
+   #   url: #
+
+   - name: Zoubida Houda Rezki
+  pic: zoubida
+  position: Vice President
+  social:
+ #   - title: twitter
+ #     url: #
+ #   - title: facebook
+ #     url: #
+ #   - title: stack-overflow
+ #     url: #
+
 - name: Saalihah Latiff
   pic: 10
   position: Senior Advisor
@@ -80,17 +102,6 @@ people:
  #   - title: stack-overflow
  #     url: #
  
- 
-- name: Zoubida Houda Rezki
-  pic: zoubida
-  position: Vice President
-  social:
- #   - title: twitter
- #     url: #
- #   - title: facebook
- #     url: #
- #   - title: stack-overflow
- #     url: #
 
 - name: Stephanie Anongdeth
   pic: steph
@@ -124,17 +135,6 @@ people:
   #     url: #
   #   - title: stack-overflow
   #     url: #
-
-- name: Anna Vu
-  pic: anna-president
-  position: President
-  social:
-   #   - title: linkedin
-   #    url: https://www.linkedin.com/in/sara-umer-353172213
-  #  - title: facebook
-   #   url: #
-   # - title: stack-overflow
-   #   url: #
 
 #- name: Hatice Avci
 #  pic: hadije
