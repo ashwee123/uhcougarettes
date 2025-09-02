@@ -92,16 +92,16 @@ people:
   #  - title: google-plus
    #   url: #
    
-#- name: Khadeeja Tapkirwala
-#  pic: 12
-#  position: Marketing Chair
-#  social:
-   # - title: twitter
-   #   url: #
-   # - title: facebook
-   #   url: #
-  #  - title: stack-overflow
-   #   url: #
+  #- name: Khadeeja Tapkirwala
+  #  pic: 12
+  #  position: Marketing Chair
+  #  social:
+     # - title: twitter
+     #   url: #
+     # - title: facebook
+     #   url: #
+    #  - title: stack-overflow
+     #   url: #
       
 
 # - name: Tofi Oladipo
@@ -162,16 +162,16 @@ people:
   #  - title: google-plus
    #   url: #
    
-#- name:  Widyan Hussein
-#  pic: cordai_temp
-#  position: Tech lead
-#  social:
-  #  - title: twitter
-  #    url: #
-  #  - title: facebook
-  #    url: #
-  #  - title: google-plus
-   #   url: #
+  #- name:  Widyan Hussein
+  #  pic: cordai_temp
+  #  position: Tech lead
+  #  social:
+    #  - title: twitter
+    #    url: #
+    #  - title: facebook
+    #    url: #
+    #  - title: google-plus
+     #   url: #
 
 #- name: Feyza Macan
 #  pic: ferida
