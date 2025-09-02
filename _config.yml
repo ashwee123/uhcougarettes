@@ -80,11 +80,22 @@ people:
    #   url: #
    # - title: stack-overflow
    #   url: #
-      
-- name: Khadeeja Tapkirwala
-  pic: 12
+
+- name: Thessaly quintana
+  pic: thessaly
   position: Marketing Chair
   social:
+  #  - title: twitter
+  #    url: #
+  #  - title: facebook
+  #    url: #
+  #  - title: google-plus
+   #   url: #
+   
+#- name: Khadeeja Tapkirwala
+#  pic: 12
+#  position: Marketing Chair
+#  social:
    # - title: twitter
    #   url: #
    # - title: facebook
@@ -151,10 +162,10 @@ people:
   #  - title: google-plus
    #   url: #
    
-- name:  Widyan Hussein
-  pic: cordai_temp
-  position: Tech lead
-  social:
+#- name:  Widyan Hussein
+#  pic: cordai_temp
+#  position: Tech lead
+#  social:
   #  - title: twitter
   #    url: #
   #  - title: facebook
@@ -166,19 +177,6 @@ people:
 #  pic: ferida
 #  position: Tech lead
 #  social:
-  #  - title: twitter
-  #    url: #
-  #  - title: facebook
-  #    url: #
-  #  - title: google-plus
-   #   url: #
-
-
-
-- name: Thessaly quintana
-  pic: thessaly
-  position: Marketing Chair
-  social:
   #  - title: twitter
   #    url: #
   #  - title: facebook
