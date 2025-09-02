@@ -44,43 +44,17 @@ people:
    # - title: stack-overflow
    #   url: #
 
-   
-#- name: Natalie Severino
- # pic: 1
- # position: Senior Advisor
- # social:
-   # - title: twitter
-   #   url: #
-   # - title: facebook
-   #   url: #
-   # - title: linkedin
-   #   url: #
-
 - name: Keertana
   pic: keertana
   position: Secretary
   social:
-     
-#- name: Sakinah Naviwala
-#  pic: sakinah
-#  position: Secretary
-#  social:
-   # - title: facebook
-  #    url: #
-  #  - title: stack-overflow
-   #   url: #
+ #   - title: twitter
+ #     url: #
+ #   - title: facebook
+ #     url: #
+ #   - title: stack-overflow
+ #     url: #
       
-#- name: Ayan Anees
- # pic: Ayan
- # position: Coding Event Coordinator
- # social:
-   #   - title: linkedin
-   #    url: https://www.linkedin.com/in/sara-umer-353172213
-  #  - title: facebook
-   #   url: #
-   # - title: stack-overflow
-   #   url: #
-
 - name: Thessaly quintana
   pic: thessaly
   position: Marketing Chair
@@ -91,33 +65,7 @@ people:
   #    url: #
   #  - title: google-plus
    #   url: #
-   
-  #- name: Khadeeja Tapkirwala
-  #  pic: 12
-  #  position: Marketing Chair
-  #  social:
-     # - title: twitter
-     #   url: #
-     # - title: facebook
-     #   url: #
-    #  - title: stack-overflow
-     #   url: #
-      
-
-# - name: Tofi Oladipo
-#   pic: 8
-#   position: Recruitment Chair
-#   social:
-  #   - title: linkedin
-  #     url: https://www.linkedin.com/in/jaelyn-rogers-224801176
- #   - title: twitter
- #     url: #
- #   - title: facebook
- #     url: #
- #   - title: stack-overflow
- #     url: #
  
-
 - name: Stephanie Anongdeth
   pic: steph
   position: Outreach Chair
@@ -139,60 +87,11 @@ people:
   #     url: #
   #   - title: stack-overflow
   #     url: #
-
-#- name: Cordai Shadie
-#  pic: cordai_temp
-#  position: Treasurer
-#  social:
-  #   - title: twitter
-  #     url: #
-  #   - title: facebook
-  #     url: #
-  #   - title: stack-overflow
-  #     url: #
-
-#- name: Hatice Avci
-#  pic: hadije
-#  position: Tech lead
-#  social:
-  #  - title: twitter
-  #    url: #
-  #  - title: facebook
-  #    url: #
-  #  - title: google-plus
-   #   url: #
-   
-  #- name:  Widyan Hussein
-  #  pic: cordai_temp
-  #  position: Tech lead
-  #  social:
-    #  - title: twitter
-    #    url: #
-    #  - title: facebook
-    #    url: #
-    #  - title: google-plus
-     #   url: #
-
-#- name: Feyza Macan
-#  pic: ferida
-#  position: Tech lead
-#  social:
-  #  - title: twitter
-  #    url: #
-  #  - title: facebook
-  #    url: #
-  #  - title: google-plus
-   #   url: #
    
 - name: Charity Smith
   pic: charity
   position: Tech lead
   social:
-
-#- name: Angela Abrea
-#  pic: angie
-#  position: Tech lead
-#  social:
   #  - title: twitter
   #    url: #
   #  - title: facebook
