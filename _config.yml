@@ -90,7 +90,7 @@ people:
    
 - name: Charity Smith
   pic: charity
-  position: Tech lead
+  position: Technical lead
   social:
   #  - title: twitter
   #    url: #
@@ -98,6 +98,17 @@ people:
   #    url: #
   #  - title: google-plus
    #   url: #
+
+ - name: Tuyet Nguyen
+  pic: 
+  position: Event Coordinator
+  social:
+ #   - title: twitter
+ #     url: #
+ #   - title: facebook
+ #     url: #
+ #   - title: stack-overflow
+ #     url: #
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
