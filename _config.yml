@@ -10,7 +10,7 @@ description: "Welcome to UH Cougarettes! Our organization strives to build a sen
 # Team names, titles and social links
 people:
 - name: Anna Vu
-  pic: anna2
+  pic: anna
   position: President
   social:
    #   - title: linkedin
@@ -21,7 +21,7 @@ people:
    #   url: #
 
 - name: Zoubida Houda Rezki
-  pic: zoubida
+  pic: 
   position: Vice President
   social:
  #   - title: twitter
@@ -78,7 +78,7 @@ people:
   #     url: #
 
 - name: Aizah Khan
-  pic: azra
+  pic: 
   position: Program Manager
   social:
   #   - title: twitter
@@ -111,7 +111,7 @@ people:
  #     url: #
 
 - name: Afra Nawar
-  pic: afra
+  pic: 
   position: Recruitment Chair
   social:
  #   - title: twitter
