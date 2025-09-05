@@ -31,19 +31,6 @@ people:
  #   - title: stack-overflow
  #     url: #
 
-- name: Saalihah Latiff
-  pic: 10
-  position: Senior Advisor
-  social:
-   # - title: linkedin
-   #  url: https://www.linkedin.com/in/svlombardo
-   # - title: twitter
-   #   url: #
-   # - title: facebook
-   #   url: #
-   # - title: stack-overflow
-   #   url: #
-
 - name: Keertana
   pic: keertana
   position: Secretary
@@ -54,28 +41,17 @@ people:
  #     url: #
  #   - title: stack-overflow
  #     url: #
-      
-- name: Thessaly quintana
-  pic: thessaly
-  position: Marketing Chair
+
+- name: Dino Rodriguez
+  pic: 
+  position: Treasurer
   social:
-  #  - title: twitter
-  #    url: #
-  #  - title: facebook
-  #    url: #
-  #  - title: google-plus
-   #   url: #
- 
-- name: Stephanie Anongdeth
-  pic: stephanie
-  position: Outreach Chair
-  social:
-  #   - title: twitter
-  #     url: #
-  #   - title: facebook
-  #     url: #
-  #   - title: stack-overflow
-  #     url: #
+ #   - title: twitter
+ #     url: #
+ #   - title: facebook
+ #     url: #
+ #   - title: stack-overflow
+ #     url: #
 
 - name: Aizah Khan
   pic: 
@@ -87,17 +63,39 @@ people:
   #     url: #
   #   - title: stack-overflow
   #     url: #
-   
-- name: Charity Smith
-  pic: charity
-  position: Technical lead
+
+- name: Afra Nawar
+  pic: 
+  position: Recruitment Chair
   social:
-  #  - title: twitter
-  #    url: #
-  #  - title: facebook
-  #    url: #
-  #  - title: google-plus
-   #   url: #
+ #   - title: twitter
+ #     url: #
+ #   - title: facebook
+ #     url: #
+ #   - title: stack-overflow
+ #     url: #
+
+- name: Ashley Nguyen
+  pic: 
+  position: Webmaster
+  social:
+ #   - title: twitter
+ #     url: #
+ #   - title: facebook
+ #     url: #
+ #   - title: stack-overflow
+ #     url: #
+
+- name: Stephanie Anongdeth
+  pic: stephanie
+  position: Outreach Chair
+  social:
+  #   - title: twitter
+  #     url: #
+  #   - title: facebook
+  #     url: #
+  #   - title: stack-overflow
+  #     url: #
 
 - name: Tuyet Nguyen
   pic: tuyet
@@ -110,9 +108,31 @@ people:
  #   - title: stack-overflow
  #     url: #
 
-- name: Afra Nawar
-  pic: 
-  position: Recruitment Chair
+- name: Charity Smith
+  pic: charity
+  position: Technical lead
+  social:
+  #  - title: twitter
+  #    url: #
+  #  - title: facebook
+  #    url: #
+  #  - title: google-plus
+   #   url: #
+      
+- name: Thessaly quintana
+  pic: thessaly
+  position: Marketing Chair
+  social:
+  #  - title: twitter
+  #    url: #
+  #  - title: facebook
+  #    url: #
+  #  - title: google-plus
+   #   url: #
+
+- name: Sakinah
+  pic: sakinah
+  position: Digital Marketing
   social:
  #   - title: twitter
  #     url: #
@@ -120,6 +140,19 @@ people:
  #     url: #
  #   - title: stack-overflow
  #     url: #
+
+- name: Saalihah Latiff
+  pic: 10
+  position: Senior Advisor
+  social:
+   # - title: linkedin
+   #  url: https://www.linkedin.com/in/svlombardo
+   # - title: twitter
+   #   url: #
+   # - title: facebook
+   #   url: #
+   # - title: stack-overflow
+   #   url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
