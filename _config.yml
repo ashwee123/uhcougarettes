@@ -31,6 +31,17 @@ people:
  #   - title: stack-overflow
  #     url: #
 
+- name: Dino Rodriguez
+  pic: 
+  position: Treasurer
+  social:
+ #   - title: twitter
+ #     url: #
+ #   - title: facebook
+ #     url: #
+ #   - title: stack-overflow
+ #     url: #
+
 - name: Keertana
   pic: keertana
   position: Secretary
@@ -42,9 +53,9 @@ people:
  #   - title: stack-overflow
  #     url: #
 
-- name: Dino Rodriguez
+- name: Afra Nawar
   pic: 
-  position: Treasurer
+  position: Recruitment Chair
   social:
  #   - title: twitter
  #     url: #
@@ -64,20 +75,9 @@ people:
   #   - title: stack-overflow
   #     url: #
 
-- name: Afra Nawar
-  pic: 
-  position: Recruitment Chair
-  social:
- #   - title: twitter
- #     url: #
- #   - title: facebook
- #     url: #
- #   - title: stack-overflow
- #     url: #
-
-- name: Ashley Nguyen
-  pic: 
-  position: Webmaster
+- name: Tuyet Nguyen
+  pic: tuyet
+  position: Event Coordinator
   social:
  #   - title: twitter
  #     url: #
@@ -97,9 +97,9 @@ people:
   #   - title: stack-overflow
   #     url: #
 
-- name: Tuyet Nguyen
-  pic: tuyet
-  position: Event Coordinator
+- name: Ashley Nguyen
+  pic: 
+  position: Webmaster
   social:
  #   - title: twitter
  #     url: #
@@ -118,17 +118,6 @@ people:
   #    url: #
   #  - title: google-plus
    #   url: #
-      
-- name: Thessaly quintana
-  pic: thessaly
-  position: Marketing Chair
-  social:
-  #  - title: twitter
-  #    url: #
-  #  - title: facebook
-  #    url: #
-  #  - title: google-plus
-   #   url: #
 
 - name: Sakinah
   pic: sakinah
@@ -140,6 +129,17 @@ people:
  #     url: #
  #   - title: stack-overflow
  #     url: #
+
+- name: Thessaly quintana
+  pic: thessaly
+  position: Marketing Chair
+  social:
+  #  - title: twitter
+  #    url: #
+  #  - title: facebook
+  #    url: #
+  #  - title: google-plus
+   #   url: #
 
 - name: Saalihah Latiff
   pic: 10
