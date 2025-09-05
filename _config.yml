@@ -141,19 +141,6 @@ people:
   #  - title: google-plus
    #   url: #
 
-- name: Saalihah Latiff
-  pic: 10
-  position: Senior Advisor
-  social:
-   # - title: linkedin
-   #  url: https://www.linkedin.com/in/svlombardo
-   # - title: twitter
-   #   url: #
-   # - title: facebook
-   #   url: #
-   # - title: stack-overflow
-   #   url: #
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: instagram
